@@ -2,9 +2,9 @@
 If the password is right, a secret message is shown to the user.
  */
 
-/*package org.example;
+package org.example;
 
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
